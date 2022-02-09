@@ -1,0 +1,7 @@
+C:\Broc\AzureSamples\AzureWebApp\publish\AzureWebApp.exe
+C:\Broc\AzureSamples\AzureWebApp\publish\appsettings.Development.json
+C:\Broc\AzureSamples\AzureWebApp\publish\appsettings.json
+C:\Broc\AzureSamples\AzureWebApp\publish\AzureWebApp.dll
+C:\Broc\AzureSamples\AzureWebApp\publish\AzureWebApp.deps.json
+C:\Broc\AzureSamples\AzureWebApp\publish\AzureWebApp.runtimeconfig.json
+C:\Broc\AzureSamples\AzureWebApp\publish\AzureWebApp.pdb

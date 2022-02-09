@@ -1,0 +1,12 @@
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.exe
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\publish\web.config
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\publish\appsettings.Development.json
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\publish\appsettings.json
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\publish\AzureWebApp.deps.json
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\publish\AzureWebApp.runtimeconfig.json
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.dll
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.deps.json
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.runtimeconfig.json
+C:\Broc\AzureSamples\AzureWebApp\obj\Release\net6.0\PubTmp\Out\AzureWebApp.pdb
